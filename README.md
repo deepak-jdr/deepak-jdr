@@ -1,16 +1,28 @@
 ### Hi there 👋
+I am Deepak and this is my personal profile where I write all about my work. I also write about the things I learn, the projects I work on, and the things I do for fun. Feel free to hit me up!
 
-<!--
-**deepak-jdr/deepak-jdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Pronouns** : He/Him
 
-Here are some ideas to get you started:
+### Social
+- **LinkedIn** 👉 <a href="https://www.linkedin.com/in/deepak-reddy-jonnalagadda/" target="_blank">Deepak Reddy Jonnalagadda</a>
+- **Twitter** 👉 <a href="https://twitter.com/deepak_the_king" target="_blank">@deepak_the_king</a>
+- **Mail** 👉 <a href="mailto:deepakreddy.jdr@gmail.com">Send email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **Website** 👉 <a href="https://circuitparts.in" target="_blank">www.circuitparts.in</a>
+- **Repository** 👉 <a href="https://github.com/circuitparts/store" target="_blank">github.com/circuitparts/store</a>
+
+### About Me
+I have over 7+ years of diverse software engineering experience, including a focus on building modern web applications using Typescript and React frameworks for the past 3+ years as a Full-Stack Developer. Co-founded a company and built a successful open-source e-commerce platform called [CircuitParts](https://circuitparts.in) that addresses a challenge faced by the hardware engineering community. Currently, an active maintainer of the platform’s [codebase](https://github.com/circuitparts/store) and I’m passionate to learn new technologies and always eager to leverage my skills on a new challenge.
+
+### Skills
+- **Programming Languages:** JavaScript, TypeScript, "C" Programming Language
+- **Frameworks:** React, Next.js, Redux, TailwindCSS
+- **Databases:** MongoDB, PostgreSQL (Prisma ORM)
+- **Cloud Infrastructure:** AWS S3, Redis
+- **Version control & Deployment:** Git, Vercel
+- **Payment Processing:** Stripe, Razorpay
+- **Testing:** Playwright E2E
+- **Open Source:** Project Maintainer [Circuit Parts](https://github.com/circuitparts/store) - Contribute bug fixes & feature enhancements.
+
+If you think I can help you with something, feel free to write an email and I like coffee ☕️
