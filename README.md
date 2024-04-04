@@ -25,4 +25,9 @@ I have over 7+ years of diverse software engineering experience, including a foc
 - **Testing:** Playwright E2E
 - **Open Source:** Project Maintainer [Circuit Parts](https://github.com/circuitparts/store) - Contribute bug fixes & feature enhancements.
 
+### Note on my Contributions Graph
+Just a heads up, my GitHub profile might not reflect my full coding history. I've used different accounts in the past, and occasionally even had to reset things by deleting the .git directory.  Rest assured, there's more to my coding journey than this graph shows! 
+
+
+### Write me an email
 If you think I can help you with something, feel free to write an email and I like coffee ☕️
